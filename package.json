@@ -1,9 +1,9 @@
 {
-  "name": "material-angular-dashboard",
+  "name": "honestcrm-client",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JoshAaronLevy/material-angular-dashboard.git"
+    "url": "https://github.com/honestcrm/honestcrm-client.git"
   },
   "scripts": {
     "ng": "ng",
